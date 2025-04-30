@@ -67,7 +67,7 @@ alias v="/Users/ahmed/.nix-profile/bin/nvim"
 # Nmap
 alias nm="nmap -sC -sV -oN nmap"
 
-export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/omer/.vimpkg/bin:${GOPATH}/bin:/Users/ahmed/.cargo/bin
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/ahmed/.vimpkg/bin:${GOPATH}/bin:/Users/ahmed/.cargo/bin
 
 alias cl='clear'
 
